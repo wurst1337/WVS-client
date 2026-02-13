@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/146d3086-8347-4312-acad-2c78e71e3006" height="64"> Wurst VPN Service
 
-<kbd>**English**</kbd> [<kbd>Russian</kbd>](README-RU.md) 
+🌍: <kbd>**🇺🇸 English**</kbd>  [<kbd>🇷🇺 Russian</kbd>](README-RU.md)
 
 **WVS** *(Wurst VPN Service)* — a modern free and open source client for popular VPN Protocols.
 
